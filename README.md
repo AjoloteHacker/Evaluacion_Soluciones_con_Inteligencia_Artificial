@@ -1,6 +1,6 @@
 # Riot Games Support Bot
 
-<img width="2000" height="1000" alt="image" src="https://github.com/user-attachments/assets/16415399-531d-4f7c-b019-e33e536603bc" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/16415399-531d-4f7c-b019-e33e536603bc" />
 
 
 ## Descripción
