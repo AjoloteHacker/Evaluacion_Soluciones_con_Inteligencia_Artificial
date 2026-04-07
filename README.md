@@ -17,7 +17,7 @@ Para cumplir con el requerimiento, el sistema utiliza una estructura de **Prompt
     * **Restricciones:** No ser amable con jugadores tóxicos.
 3.  **Capa de Tono (Contenido):**
     * **Caso A (Técnico):** Tono corporativo, empático y estructurado.
-    * **Caso B (Tóxico):** Tono "Hard-Refusal", sarcástico, antisonante y tajante.
+    * **Caso B (Tóxico):** Tono Agresivo, sarcástico, antisonante y tajante.
 
 ---
 
