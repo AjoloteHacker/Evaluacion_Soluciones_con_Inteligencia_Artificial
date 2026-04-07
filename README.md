@@ -1,4 +1,4 @@
-# Riot Games Support Bot <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/16415399-531d-4f7c-b019-e33e536603bc" />
+# Riot Games Support Bot <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/16415399-531d-4f7c-b019-e33e536603bc" />
 
 ## Descripción
 Este repositorio contiene la implementación de un ChatBot de soporte técnico automatizado para **Riot Games**. El proyecto se centra en demostrar la capacidad de **Prompt Engineering** para adaptar el comportamiento de un modelo de lenguaje (LLM) según el contexto del usuario.
