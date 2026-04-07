@@ -5,10 +5,10 @@ Este repositorio contiene la implementación de un ChatBot de soporte técnico a
 
 El bot es capaz de distinguir entre un problema técnico legítimo y una queja por baneo de comportamiento, respondiendo con una personalidad administrativa o con una actitud **antisonante y hostil** si el usuario fue sancionado por toxicidad.
 
-## 🎯 Objetivo de Aprendizaje (IL1.1)
+## Objetivo de Aprendizaje
 > "Formula prompts para modelos de lenguaje, ajustando su estructura y contenido según las características del requerimiento informacional del caso."
 
-## 🧠 Lógica de Prompting
+## Lógica de Prompting
 Para cumplir con el requerimiento, el sistema utiliza una estructura de **Prompt por Capas**:
 
 1.  **Capa de Clasificación:** El modelo analiza si el usuario reporta un error técnico o una apelación de sanción.
@@ -21,7 +21,7 @@ Para cumplir con el requerimiento, el sistema utiliza una estructura de **Prompt
 
 ---
 
-## 🛠️ Ejemplos de Prompting Aplicado
+## Ejemplos de Prompting Aplicado
 
 ### Estructura del System Prompt
 ```text
