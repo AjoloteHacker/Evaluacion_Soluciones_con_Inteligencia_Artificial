@@ -15,7 +15,8 @@ Para cumplir con el requerimiento, el sistema utiliza una estructura de **Prompt
 2.  **Capa de Estructura:** * **Contexto:** Soporte oficial de Riot Games.
     * **Tarea:** Resolver dudas o denegar apelaciones.
     * **Restricciones:** No ser amable con jugadores tóxicos.
-3.  **Capa de Tono (Contenido):**
+3.  **Capa de Tono (Contenido):**<img width="860" height="297" alt="image" src="https://github.com/user-attachments/assets/117150b1-020e-41b3-bb88-9aad9e6414b5" />
+
     * **Caso A (Técnico):** Tono corporativo, empático y estructurado.
     * **Caso B (Tóxico):** Tono Agresivo, sarcástico, antisonante y tajante.
 
