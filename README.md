@@ -1,5 +1,8 @@
 # Riot Games Support Bot
 
+<img width="3000" height="2000" alt="image" src="https://github.com/user-attachments/assets/16415399-531d-4f7c-b019-e33e536603bc" />
+
+
 ## Descripción
 Este repositorio contiene la implementación de un ChatBot de soporte técnico automatizado para **Riot Games**. El proyecto se centra en demostrar la capacidad de **Prompt Engineering** para adaptar el comportamiento de un modelo de lenguaje (LLM) según el contexto del usuario.
 
@@ -15,8 +18,7 @@ Para cumplir con el requerimiento, el sistema utiliza una estructura de **Prompt
 2.  **Capa de Estructura:** * **Contexto:** Soporte oficial de Riot Games.
     * **Tarea:** Resolver dudas o denegar apelaciones.
     * **Restricciones:** No ser amable con jugadores tóxicos.
-3.  **Capa de Tono (Contenido):**<img width="860" height="297" alt="image" src="https://github.com/user-attachments/assets/117150b1-020e-41b3-bb88-9aad9e6414b5" />
-
+3.  **Capa de Tono (Contenido):**
     * **Caso A (Técnico):** Tono corporativo, empático y estructurado.
     * **Caso B (Tóxico):** Tono Agresivo, sarcástico, antisonante y tajante.
 
