@@ -1,0 +1,25 @@
+#Cache que usando "pip freeze > requirements.txt" se crea automaticamente las librerias, pero pone absolutamente todo
+#lo que tenemos en nuestros pcs,,, kueek
+
+
+#Esto es lo que nos conecta con GPT-4o 
+langchain>=0.3.0
+langchain-openai>=0.3.0
+
+#Para que el bot lea las llaves del archivo .env y no se vean en el codigo
+python-dotenv>=1.0.0
+
+#Con este podemos ver el historial de quq responde la IA y arreglar errores
+langsmith>=0.1.0
+
+#Para que el bot pueda leer los PDFs quizas para reglas de steam o cosas asi
+pypdf>=4.0.0
+
+#Para contar cuanto texto le enviamos a la IA y no pasarnos del limite
+tiktoken>=0.8.0
+
+#Para que funcionen los cuadernos .ipynb dentro de VS Code
+ipykernel>=6.0.0
+
+#Por si el bot necesita sacar info real de la pagina de Steam
+requests>=2.31.0
